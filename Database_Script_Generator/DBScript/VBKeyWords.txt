@@ -1,0 +1,122 @@
+## Control ##	
+On	&H800000
+Error	&H800000
+GoTo	&H800000
+Resume	&H800000
+Local	&H800000
+Exit	&H800000
+
+## Declaration ##	
+Option Explicit	&H800000
+Private	&H800000
+Public	&H800000
+Dim	&H800000
+ReDim	&H800000
+As	&H800000
+Const	&H800000
+Global	&H800000
+Static	&H800000
+Sub	&H800000
+Function	&H800000
+Property	&H800000
+Type	&H800000
+Enum	&H800000
+Declare	&H800000
+Event	&H800000
+
+## File ##	
+Seek	&H800000
+Open	&H800000
+Close	&H800000
+EOF	&H800000
+Input	&H800000
+Output	&H800000
+Binary	&H800000
+Random	&H800000
+Access	&H800000
+Lock	&H800000
+Read	&H800000
+Write	&H800000
+
+## Function ##	
+CInt	&H800000
+CLng	&H800000
+CSgn	&H800000
+CCur	&H800000
+CByte	&H800000
+CVar	&H800000
+CDbl	&H800000
+CDate	&H800000
+CBool	&H800000
+CStr	&H800000
+
+## Graphic ##	
+Line	&H800000
+Circle	&H800000
+Print	&H800000
+
+## Logic Operators ##	
+Or	&H800000
+Not	&H800000
+And	&H800000
+
+## Flow Control ##	
+If	&H800000
+Then	&H800000
+Else	&H800000
+ElseIf	&H800000
+End	&H800000
+Select	&H800000
+Case	&H800000
+
+## Loop ##	
+For	&H800000
+To	&H800000
+Next	&H800000
+Do	&H800000
+While	&H800000
+Wend	&H800000
+Until	&H800000
+Loop	&H800000
+Step	&H800000
+Each	&H800000
+In	&H800000
+
+## Misc ##	
+With	&H800000
+Call	&H800000
+AddressOf	&H800000
+LBound	&H800000
+UBound	&H800000
+Let	&H800000
+Get	&H800000
+Set	&H800000
+RaiseEvent	&H800000
+New	&H800000
+Nothing	&H800000
+Empty	&H800000
+Alias	&H800000
+Begin	&H800000
+BeginProperty	&H800000
+EndProperty	&H800000
+Like	&H800000
+TRUE	&H800000
+FALSE	&H800000
+TypeOf	&H800000
+Lib	&H800000
+ByVal	&H800000
+ByRef	&H800000
+Optional	&H800000
+
+## Variable Types ##	
+Integer	&H800000
+Long	&H800000
+Single	&H800000
+Currency	&H800000
+Byte	&H800000
+Variant	&H800000
+Double	&H800000
+Date	&H800000
+Boolean	&H800000
+String	&H800000
+Object	&H800000

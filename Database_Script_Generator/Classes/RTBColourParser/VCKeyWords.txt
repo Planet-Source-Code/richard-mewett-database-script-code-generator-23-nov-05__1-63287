@@ -1,0 +1,15 @@
+#include	&H800000
+#define	&H800000
+#ifdef	&H800000
+#ifndef	&H800000
+#else	&H800000
+#endif	&H800000
+
+return	&H800000
+typedef	&H800000
+
+unsigned	&H800000
+short	&H800000
+int	&H800000
+char	&H800000
+for	&H800000
